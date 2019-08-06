@@ -1,0 +1,21 @@
+/*reset*/
+*{
+    margin:0;
+    padding:0;
+    
+}
+#container{
+    width:1140px;
+    min-height:800px;
+    margin:auto auto;
+    background-color:#ffcc99;
+    border:5px solid#ffcc99;
+    border radius:0px 100px 0px 100px;
+
+}
+body{
+    background color:#cc99ff;
+}
+.row{min-height:10px;}
+.col100{width:100%; min-height:50px;}
+.col50{width:50%;float:left}
